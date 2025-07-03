@@ -1,0 +1,11 @@
+{
+  "name": "test-subgraph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gauravlochab/test-subgraph.git",
+  "author": "gauravlochab <gauravlochab1997@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
