@@ -1,8 +1,16 @@
 {
-  "mainnet": {
-    "UniswapV2Pair": {
-      "address": "0xB4e16d0168e52d35CaCD2c6185b44281Ec28C9Dc",
-      "startBlock": 10000835
+  "optimism": {
+    "UniswapV3Pool": {
+      "address": "0x85149247691df622eaF1a8Bd0CaFd40BC45154a9",
+      "startBlock": 100000000
+    },
+    "Safe": {
+      "address": "0x4b00f1a232C28254223C8c177E997Ab298e1E40a",
+      "startBlock": 100000000
+    },
+    "USDC": {
+      "address": "0x7F5c764cBc14f9669B88837ca1490cCa17c31607",
+      "startBlock": 100000000
     }
   }
 }
